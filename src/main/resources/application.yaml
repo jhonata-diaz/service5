@@ -1,0 +1,11 @@
+spring:
+  application:
+    name:FramkyService
+  banner:
+    location: classpath:banner.txt
+
+server:
+  port: 8084
+
+DolarOff: 6.9
+
